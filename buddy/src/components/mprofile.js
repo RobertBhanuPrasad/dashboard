@@ -41,7 +41,7 @@ export default function Mprofile(){
     return (
         <div className="smprofile">
                <center>
-            hello {username} anil reddy
+            hello {username} anil 
             <hr />
          
         
